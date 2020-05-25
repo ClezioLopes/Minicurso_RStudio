@@ -10,8 +10,8 @@ Neste marial abordamos conceitos simples, deste a instalação e funcionalidades
     * Instalação do RStudio
     * Ambiente RStudio
 3. Criando conjunto de dados
-    *
-    *
+    * Criando conjunto de dados
+    * Importando os dados
 4. R como Calculadora
-    *
-    *
+    * Vetores, Matrizes, DataFrames, Listas, Funções, ...
+    * Controle de fluxo: If, for, While
