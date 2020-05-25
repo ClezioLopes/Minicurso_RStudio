@@ -4,4 +4,8 @@ Durante a minha permanência no PET elaborei este material introdutório de R/RS
 Neste marial abordamos conceitos simples, deste a instalação e funcionalidades básicas do RStudio.
 
 ## __Ementa__
-
+> Introdução
+> Instalação do R e RStudio
+  > Instalação do R
+  > Instalação do RStudio
+  > Ambiente RStudio
