@@ -9,3 +9,9 @@ Neste marial abordamos conceitos simples, deste a instalação e funcionalidades
     * Instalação do R
     * Instalação do RStudio
     * Ambiente RStudio
+3. Criando conjunto de dados
+    *
+    *
+4. R como Calculadora
+    *
+    *
