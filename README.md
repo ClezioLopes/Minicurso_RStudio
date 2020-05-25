@@ -6,6 +6,6 @@ Neste marial abordamos conceitos simples, deste a instalação e funcionalidades
 ## __Ementa__
 1. Introdução
 2. Instalação do R e RStudio
-    2.1. Instalação do R
-    2.2. Instalação do RStudio
-    2.3. Ambiente RStudio
+    - Instalação do R
+    - Instalação do RStudio
+    - Ambiente RStudio
